@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+a {
+  text-decoration: none;
+}
+
+.clear {
+  clear: left;
+}
+
+
+
+.utama-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+.extra1-wrapper {
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #f2a39d;
+  text-align: center;
+}
+
+.extra2-wrapper {
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.extra2-heading {
+  padding-top: 80px;
+  padding-bottom: 50px;
+  color: #ad6002;
+}
+
+.extra2-heading h2 {
+  font-weight: normal;
+}
+
+.klien {
+  float: left;
+  width: 25%;
+}
+
+.klien-logo {
+  position: relative;
+}
+
+.lesson-icon p {
+  position: absolute;
+  top: 44%;
+  width: 100%;
+  color: white;
+}
+
+.text-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 15px;
+  color: #ad6002;
+}
